@@ -2,6 +2,14 @@
 
 A macOS party game built with SwiftUI. One player records themselves singing a line; the app plays it back reversed, and they have to sing along to the reversed audio. Their attempt gets reversed again — if it lines up close to the original, they win the round.
 
+## How to play
+
+1. Singer records a secret song
+2. Listener hears it in reverse
+3. Listener mimics & records the reversed audio
+4. Listener's recording is reversed — sounds like the original!
+5. Listener guesses the song, then the two players swap roles
+
 ## Tech stack
 
 - Swift, SwiftUI, Swift Package Manager (macOS 13+)
