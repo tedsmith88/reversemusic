@@ -24,4 +24,4 @@ Requires microphone permission (macOS will prompt on first recording).
 
 ## Screenshots
 
-_Add a screenshot or short screen recording of a round in progress — this is a fun, visual/audio concept that's hard to convey in text alone._
+![Setup screen](docs/screenshots/setup-screen.png)
